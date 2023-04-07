@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/devrockstore/static/css/main.23ca5d79.css",
+    "main.js": "/devrockstore/static/js/main.c71a5ddf.js",
+    "static/js/787.36c0cf6c.chunk.js": "/devrockstore/static/js/787.36c0cf6c.chunk.js",
+    "static/media/0.png": "/devrockstore/static/media/0.f8a445cd861fa359487f.png",
+    "index.html": "/devrockstore/index.html",
+    "main.23ca5d79.css.map": "/devrockstore/static/css/main.23ca5d79.css.map",
+    "main.c71a5ddf.js.map": "/devrockstore/static/js/main.c71a5ddf.js.map",
+    "787.36c0cf6c.chunk.js.map": "/devrockstore/static/js/787.36c0cf6c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23ca5d79.css",
+    "static/js/main.c71a5ddf.js"
+  ]
+}
